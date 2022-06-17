@@ -1,0 +1,10 @@
+[
+  {
+    "package": "gghalves",
+    "oncran": true
+  },
+  {
+    "package": "ggpol",
+    "oncran": true
+  }
+]
